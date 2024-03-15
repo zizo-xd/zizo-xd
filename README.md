@@ -6,4 +6,4 @@ I'm a 1st year pursuing a Barchelor's degree in Information System 🎓 from Uni
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/wilYo_7wGKYAAAAC/tenor.gif">
 
-[![MasterHead](https://c.tenor.com/wilYo_7wGKYAAAAC/tenor.gif)(https://github.com/zizo-xd)
+[![MasterHead](https://c.tenor.com/wilYo_7wGKYAAAAC/tenor.gif)](https://github.com/zizo-xd)
