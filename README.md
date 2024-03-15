@@ -2,4 +2,4 @@ I'm a 1st year pursuing a Barchelor's degree in Information System 🎓 from Uni
 
 [![NIcholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=zizo-xd&show_icons=true))](https://github.com/zizo-xd/github-readme-stats&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zizo-xd&layout=donut)](https://github.com/zizo-xd/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zizo-xd&layout=donut)(https://github.com/zizo-xd/github-readme-stats)
